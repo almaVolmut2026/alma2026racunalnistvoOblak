@@ -2,15 +2,15 @@ Which of the following is an example of virtualization?
 Odgovor: d) Multiple virtual machines running on the same server
 Razlaga: Virtualizacija je opredljena kot tehnologija, ki omogoča več virtualnih strojev, od katerih vsak izvaja svoj operacijski sistem na enem samem fizičnem strežniku.
 
-Which resources provide the ‘brains’ to process your workloads...?
+Which resources provide the ‘brains’ to process your workloads including what is required to process and run requests from applications??
 Odgovor: a) Compute
 Razlaga: Compute objekti zagotavljajo "možgane" za obdelavo delovnih obremenitev, podobno kot procesor (CPU) in pomnilnik (RAM) v fizičnem strežniku.
 
-When you need to provision a resource within the cloud, _________ makes it almost immediately available...
+When you need to provision a resource within the cloud, _________ makes it almost immediately available to you to allocate where and when you need it.
 Odgovor: d) on-demand resourcing
 Razlaga: To pomeni, da so viri na voljo takoj, ko jih potrebujemo, brez čakanja na nakup ali namestitve strojne opreme.
 
-A ________ cloud deployment model is where a vendor makes available the use of shared infrastructure...
+A ________ cloud deployment model is where a vendor makes available the use of shared infrastructure, including compute, storage and network resources, that can be provisioned on demand and typically accessed over the internet. 
 Odgovor: d) public
 Razlaga: Public cloud uporablja skupno infrastrukturo, ki je dostopna prek interneta za splošno uporabo.
 
@@ -22,7 +22,7 @@ What concept or characteristic of cloud computing does this represent? (AI servi
 Odgovor: 1. On-demand resourcing IN a) Growth
 Razlaga: Opisano je dodajanje novih zmogljivosti umetne inteligence in širitev na nove trge, to najbolje predstavlja Growth, saj oblak omogoča hitro širitev brez omejitev klasičnih podatkovnih centrov.
 
-The ___________________ cloud service model offers a balance between customization and user control, allowing developers to focus on designing at the application layer...
+The ___________________ cloud service model offers a balance between customization and user control, allowing developers to focus on designing at the application layer while the service handles the administration of the virtual architecture, including the network and operating system. 
 Odgovor: b) Platform-as-a-Service (PaaS)
 Razlaga: PaaS razvijalcem omogoča osredotočanje na kodo, ponudnik pa upravlja operacijski sistem in osnovno arhitekturo.
 
@@ -34,11 +34,11 @@ Which cloud resource saves and retains data, and is available at an almost unlim
 Odgovor: d) Storage
 Razlaga: So kot viri, ki omogočajo shranjevanje podatkov in so v oblaku neomejeni.
 
-The ___________________ cloud service model offers the greatest amount of user customization and control...
+The ___________________ cloud service model offers the greatest amount of user customization and control but requires the greatest amount of user administration including the operating system, but not physical hardware. 
 Odgovor: a) Infrastructure-as-a-Service (IaaS)
 Razlaga: IaaS ponuja najvišjo raven nadzora, saj uporabnik sam konfigurira virtualno omrežje in operacijski sistem.
 
-What benefit of cloud computing allows you to increase or decrease the power or quantity of resources at any time...?
+What benefit of cloud computing allows you to increase or decrease the power or quantity of resources at any time, without extensive installation or physical processes of provisioning? 
 Odgovor: b) Scalability
 Razlaga: Gre za zmožnost hitrega povečanja ali zmanjšanja virov glede na povpraševanje.
 
@@ -50,7 +50,7 @@ Under the Shared Responsibility Model, which of the following would be the end u
 Odgovor: d) Encryption of data stored within a cloud storage service such as Amazon Elastic Block Store
 Razlaga: Ponudnik zagotavlja storitev, uporabnik pa je odgovoren za varnost svojih podatkov v njej, npr. šifriranje.
 
-The ___________________ model requires no software installation and focuses on design simplicity...
+The ___________________ model requires no software installation and focuses on design simplicity and ease of use. It offers a minimal level of service customization. 
 Odgovor: b) Software-as-a-Service (SaaS)
 Razlaga: Ne zahteva namestitve in ponuja najmanj prilagajanja, saj aplikacijo v celoti upravlja ponudnik.
 
@@ -58,7 +58,7 @@ Which of the following cloud offerings would you suggest to your client? (Custom
 Odgovor: b) Platform as a Service (PaaS)
 Razlaga: Je najboljša izbira za razvijalce, ki želijo pisati kodo, brez potrebe ukvarjanja z upravljanjem operacijskih sistemov.
 
-A business uses a combination of vendor-managed hardware and its own hardware on premises...
+A business uses a combination of vendor-managed hardware and its own hardware on premises to host virtualized resources. This is an example of the ___________ cloud deployment model.
 Odgovor: c) hybrid
 Razlaga: Gre za kombinacijo javnega in zasebnega oblaka (lastne strojne opreme).
 
